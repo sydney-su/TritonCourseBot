@@ -1,0 +1,10 @@
+3/15/2025
+- so that I don't need to pay per token using APIs, I'll create a local LLM
+- choosing LM Studio over Ollama because the UI is much better
+- will chose Mistral 7B for my model ... reasoning below:
+    (1) DeepSeek R1 Distilled (Qwen 7B): great at reasoning tasks, very efficient, trained by DeepSeek
+            - Best for structured reasoning, math, and basic chatbot tasks.
+    (2) Mistral 7B: great general purpose open source model, good at nlp/reasoning/generation
+            - Best for chatbots, summarization, text generation, and reasoning
+    (3) Gemma 7B: safety aligned for better response reliability but good at general conversation
+            - Best for safe, high-quality conversations and Q&A tasks.
